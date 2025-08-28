@@ -1,8 +1,6 @@
-// const apiKey = `4cbad31034e53a658c1c7e0a4a344876`
-// const url = `https://api.openweathermap.org/data/2.5/weather?units=metrics&q=${city}&appid=${apiKey}`
 
 // Chave da API do OpenWeatherMap
-const APIKEY = "4cbad31034e53a658c1c7e0a4a344876"
+const APIKEY = "??"
 // URL base da API, já com unidade em métrico
 const URL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
